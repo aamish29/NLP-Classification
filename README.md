@@ -1,2 +1,2 @@
-# NLP-Project
-Recognising whether the tweets on X(Twitter) are disaster prone
+# NLP-Classification
+Recognising whether the tweets on X(Twitter) are disaster related.
