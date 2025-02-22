@@ -28,29 +28,42 @@ matplotlib
 
 ## Setup
 Clone the repository
+
 Install the required dependencies:
 
 ## Data Preprocessing
 Text length analysis
+
 Train-test split (80% train, 20% validation)
+
 Tokenization using DistilBERT tokenizer
 
 ## Model
 The project uses a DistilBERT-based classifier:
+
 DistilBERT backbone
+
 Dense layer for pooling
+
 Dropout for regularization
+
 Output dense layer for classification
 
 ## Training
 Batch size: 32
+
 Epochs: 4
+
 Optimizer: Adam with learning rate 1e-5
+
 Loss function: Sparse Categorical Crossentropy
 
 ## Evaluation
+
 Accuracy and loss metrics
+
 Confusion matrix visualization
+
 F1 score calculation
 
 ## Usage
@@ -58,5 +71,7 @@ Run the Jupyter notebook Disaster_Tweets_Code.ipynb to train the model and evalu
 
 ## Future Work
 Experiment with different model architectures
+
 Implement cross-validation
+
 Try other NLP techniques like data augmentation or ensemble methods
