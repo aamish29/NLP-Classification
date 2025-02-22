@@ -11,12 +11,19 @@ test.csv: Test set (3263 samples)
 
 ## Dependencies
 numpy
+
 pandas
+
 tensorflow
+
 keras_core
+
 keras_nlp
+
 scikit-learn
+
 seaborn
+
 matplotlib
 
 ## Setup
