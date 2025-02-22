@@ -1,6 +1,6 @@
 # NLP-Classification
 Recognising whether the tweets on X(Twitter) are disaster related.
-Disaster Tweet Classification
+
 This project aims to classify tweets as either relating to real disasters or not using Natural Language Processing (NLP) techniques and machine learning.
 
 ## Dataset
